@@ -70,9 +70,9 @@ Add punctuation handling
 Web interface using Gradio or Flask
 
 
-Author
+## Author
 
-Made by DINESH RAMPA 
+Made by ### DINESH RAMPA 
 
 
 
