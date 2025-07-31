@@ -72,7 +72,7 @@ Web interface using Gradio or Flask
 
 ## Author
 
-Made by ### DINESH RAMPA 
+<b> DINESH RAMPA </b>
 
 
 
